@@ -4,12 +4,12 @@
 
 [![Logout](../imgs/logout.png "Logout")](../index.md)  
 Logout
-{: .map-p}
+{: style="font-size: 30px;"}
 
 ![Map](../imgs/map.png "Map")  
 Map
-{: .map-p}
+{: style="font-size: 30px;"}
 
 [![Settings](../imgs/settings.png "Settings")](settings.md)  
 Settings
-{: .map-p}
+{: style="font-size: 30px;"}
