@@ -1,15 +1,12 @@
-<link href="../styles.css" rel="stylesheet">  
+<link href="test.css" rel="stylesheet">  
 
 # Map
 
 [![Logout](../imgs/logout.png "Logout")](../index.md)  
-Logout
-{: style="font-size: 30px;"}
+{:.map}Logout
 
 ![Map](../imgs/map.png "Map")  
-Map
-{: style="font-size: 30px;"}
+{:.map}Map
 
 [![Settings](../imgs/settings.png "Settings")](settings.md)  
-Settings
-{: style="font-size: 30px;"}
+{:.map}Settings
