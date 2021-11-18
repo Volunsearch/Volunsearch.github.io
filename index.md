@@ -1,4 +1,4 @@
-<link href="styles.css" rel="stylesheet"></link>  
+<link href="styles.css" rel="stylesheet"> 
 # Welcome to Squid Game
 
 Robux is cool  
