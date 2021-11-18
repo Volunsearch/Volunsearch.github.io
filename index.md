@@ -2,7 +2,7 @@
 
 # Login
 
-[![hi](imgs/login.png "login???")](pages/map.md)
+[![hi](imgs/login.png "login???")](pages/map)
 <div class="aside">
 <video width="320" height="240" controls>
   <source src="vids/funny.mp4" type="video/mp4">
