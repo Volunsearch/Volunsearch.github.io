@@ -4,5 +4,11 @@
 } */
 
 .map {
-    font-size: 20px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.backarrow {
+    width: 25%;
+    height: auto;
 }
