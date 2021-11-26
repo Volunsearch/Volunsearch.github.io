@@ -7,4 +7,4 @@ My garden is in desperate need for someone to come take care of it.
 ## Directions
 ![path](../imgs/jobpath.png)
 
-<button onclick = "jobreg.md">Register</button>
+<button onclick = "job.md">Cancel Registration</button>
