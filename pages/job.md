@@ -7,4 +7,6 @@ My garden is in desperate need for someone to come take care of it.
 ## Directions
 ![path](../imgs/jobpath.PNG)
 
-<button onclick = "href='./jobreg.md'">Register</button>
+<button onclick="window.location.href='./job.md';">
+      Register
+    </button>
