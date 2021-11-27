@@ -6,6 +6,8 @@
 .map {
     font-size: 30px;
     margin-bottom: 20px;
+    width: 80%;
+    height: auto;
 }
 
 .backarrow {
@@ -14,6 +16,6 @@
 }
 
 img {
-    width: 80%;
+    width: 20%;
     height: auto;
 }
