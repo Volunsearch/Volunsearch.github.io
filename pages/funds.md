@@ -1,13 +1,13 @@
 <link href="../styles.css" rel="stylesheet">  
 
 <div>
-<a href="map">
+<a href="settings">
 <img src="../imgs/backarrow.png" alt="Back" class="backarrow">
 </a>
 </div>
 <div class="map"> Back </div>   
 
-# Settings  
+# Funds Linking  
 
-[![Inventory](../imgs/funds.png "Funds Linking")](funds)  
-<div class="map"> Funds Linking </div>    
+![Inventory](../imgs/stonks.png "Inventory Manager")  
+<div class="map"> Inventory Manager </div>    

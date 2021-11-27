@@ -7,7 +7,7 @@
 </div>
 <div class="map"> Back </div>   
 
-# Settings  
+# Event Hub Page  
 
-[![Inventory](../imgs/funds.png "Funds Linking")](funds)  
-<div class="map"> Funds Linking </div>    
+[![Inventory](../imgs/inventorymanager.png "Inventory Manager")](inventory)  
+<div class="map"> Inventory Manager </div>    
