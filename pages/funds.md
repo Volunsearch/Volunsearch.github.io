@@ -10,4 +10,4 @@
 # Funds Linking  
 
 ![Inventory](../imgs/stonks.png "Inventory Manager")  
-<div class="map"> Inventory Manager </div>    
+<div class="map"> Link to Transaction Software </div>    
