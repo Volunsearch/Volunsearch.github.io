@@ -11,7 +11,7 @@ My garden is in desperate need for someone to come take care of it.
 
 <div>
 <a href="map">
-<img src="../imgs/backarrow.png" alt="Back" class="backarrow">
+<img src="../imgs/backarrow.png" alt="Back" class="backarrow" width="250" height="200">
 </a>
 </div>
 <div class="map"> Back </div>
