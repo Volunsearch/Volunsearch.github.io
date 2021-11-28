@@ -3,7 +3,7 @@
 # Map
 
 <div>
-<img src="../imgs/maowithmarker.png" onclick="window.location.href='./job';" width="1149" height="813">
+<img src="../imgs/mapwithmarker.png" onclick="window.location.href='./job';" width="1149" height="813">
 </div>
    
 [![Logout](../imgs/logout.png "Logout")](..)  
