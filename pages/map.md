@@ -1,7 +1,9 @@
 <link href="../styles.css" rel="stylesheet">  
 
 # Map
-
+    
+[![Map](../imgs/map.png "Map")](job)
+   
 [![Logout](../imgs/logout.png "Logout")](..)  
 <div class="map"> Logout </div>    
   
