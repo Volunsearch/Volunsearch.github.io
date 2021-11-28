@@ -9,17 +9,40 @@
 
 # Event Hub Page  
 
-[![Inventory](../imgs/inventorymanager.png "Inventory Manager")](inventory)  
-<div class="map"> Inventory Manager </div>    
+<div class="event">
 
-[![Group Management](../imgs/groupmanage.png "Group Management")](groupmanage)  
-<div class="map"> Group Management </div>    
+<div>
+    <a href="inventory">
+        <img src="../imgs/inventorymanager.png" alt="Inventory Manager">
+    </a>
+    <p> Inventory Manager </p>    
+</div>
 
-[![Announcement Board](../imgs/announce.jpg "Announcement Board")](announce)  
-<div class="map"> Announcement Board </div>    
+<div>
+    <a href="groupmanage">
+        <img src="../imgs/groupmanage.png" alt="Group Management">
+    </a>
+    <p> Group Management </p>   
+</div>
 
-[![Voice Chat](../imgs/videoaudio.png "Voice Chat")](voicechat)  
-<div class="map"> Voice Chat </div>    
+<div>
+    <a href="announce">
+        <img src="../imgs/announce.jpg" alt="Announcement Board">
+    </a>
+    <p> Announcement Board </p> 
+</div>
 
-[![Group Chat](../imgs/groupchat.png "Group Chat")](groupchat)  
-<div class="map"> Group Chat </div>    
+<div>
+    <a href="voicechat">
+        <img src="../imgs/videoaudio.png" alt="Voice Chat">
+    </a>
+    <p> Voice Chat </p>  
+</div>
+
+<div>
+    <a href="groupchat">
+        <img src="../imgs/groupchat.png" alt="Group Chat">
+    </a>
+    <p> Group Chat </p>   
+    </div>
+</div>
