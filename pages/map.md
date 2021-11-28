@@ -2,7 +2,11 @@
 
 # Map
     
-[![Map](../imgs/mapwithmarker.png "Map")](job)
+[![Map](../imgs/mapwithmarker.png width= "Map")](job)
+
+<div>
+<img src="../imgs/maowithmarker.png" onclick="window.location.href='./job';" width="2500" height="2000">
+</div>
    
 [![Logout](../imgs/logout.png "Logout")](..)  
 <div class="map"> Logout </div>    
