@@ -19,3 +19,10 @@
     width: 80%;
     height: auto;
 }
+
+.header img {
+    float: left;
+    width: 5%;
+    height: auto;
+  }
+  

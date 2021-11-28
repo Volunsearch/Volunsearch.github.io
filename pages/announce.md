@@ -7,7 +7,7 @@
 </div>
 <div class="map"> Back </div>  
 
-![Inventory](../imgs/squidgame.png "Example 1")  
+![Squid Game](../imgs/squidgame.png "SQUID GAME LES GO")  
 
 # Announcement Board  
 
